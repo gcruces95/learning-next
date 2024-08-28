@@ -1,2 +1,7 @@
-# Next.js 14 Guide - Project Repository
-This repository was created to follow the official Next.js 14 guide available on nextjs.org. It contains all the code and exercises implemented as part of the learning process.
+## Next.js App Router Course - Starter
+
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
+> > > > > > > 3633f42 (Initial commit from Create Next App)
